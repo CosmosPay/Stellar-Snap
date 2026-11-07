@@ -49,9 +49,9 @@ swap and sign with the wallet they already have; your dApp connects through a st
 
 | | |
 | --- | --- |
-| 👤 **Stellar accounts**<br>Several accounts from your MetaMask Secret Recovery Phrase, or import a secret key or a recovery phrase. | 📤 **Send and receive**<br>XLM and other assets, reviewing the fee and memo before signing; receive with a QR code. |
-| 🪙 **Assets and trustlines**<br>Add assets from the Cosmos Pay registry, or any other by its code and issuer. | 🔁 **Swaps**<br>On the Stellar DEX with Cosmos Pay quotes; the Snap checks every transaction before signing. |
-| ✍️ **Soroban and messages**<br>Sign contract authorizations seeing the contract, function and arguments; messages with SEP-53. | 🔗 **Linked EVM account**<br>Link your `0x` address to your Stellar account with signatures anyone can verify. |
+| **Stellar accounts**<br>Several accounts from your MetaMask Secret Recovery Phrase, or import a secret key or a recovery phrase. | **Send and receive**<br>XLM and other assets, reviewing the fee and memo before signing; receive with a QR code. |
+| **Assets and trustlines**<br>Add assets from the Cosmos Pay registry, or any other by its code and issuer. | **Swaps**<br>On the Stellar DEX with Cosmos Pay quotes; the Snap checks every transaction before signing. |
+| **Soroban and messages**<br>Sign contract authorizations seeing the contract, function and arguments; messages with SEP-53. | **Linked EVM account**<br>Link your `0x` address to your Stellar account with signatures anyone can verify. |
 
 <p align="center">
   <img src="docs/images/snap.png" alt="The Stellar Snap in MetaMask: home screen with balance, Fund, Send, Receive and Sign" width="360">
